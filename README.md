@@ -317,6 +317,9 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Hailuo AI (MiniMax)](https://hailuoai.video) — Strong motion consistency and character animation. `#free`
 - [Pixverse](https://pixverse.ai) — Versatile video generation with effects and smooth transitions. `#free`
 - [ImagineClip](https://imagineclip.com) — AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content. `#free`
+- ⭐ [KDA Firestarter AI Dance](https://kdafirestarterai.dev) — Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- ⭐ [A2O LITE NEON AI Dance](https://a2oliteai.org) — Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99)
+- ⭐ [dime dime baby ai](https://dimedimebabyai.dev) — Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 
 ### AI Video Editing & Production
 
